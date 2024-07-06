@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ani-bac {
+    background: linear-gradient(45deg, rgb(26, 242, 203), rgb(222, 76, 166), rgb(55, 204, 230), rgb(201, 240, 27), rgb(27, 240, 148));
+}
